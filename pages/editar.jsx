@@ -1,4 +1,4 @@
-import NavBarComponent from "./components/Navbar"
+import NavBarComponent from "./components/NavbarComponent"
 import EditarComponent from "./components/EditarComponent"
 
 export default function editar() {
